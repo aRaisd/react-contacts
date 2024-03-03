@@ -1,1 +1,1 @@
-# react-contacts
+# react-contacts-manager
